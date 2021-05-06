@@ -1,0 +1,2 @@
+# GolangCompetitiveProgramming
+ GOの競技プログラミング用リポジトリ
